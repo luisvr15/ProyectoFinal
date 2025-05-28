@@ -24,3 +24,13 @@ Luego se mejoró el sistema utilizando un árbol binario de búsqueda. Este tipo
 
 En la etapa final se utilizó un grafo, que es una estructura que permite conectar muchas ciudades entre sí como si fueran puntos en un mapa con caminos. Esto hace posible representar rutas complejas entre varios lugares. Con esta estructura, el sistema puede calcular la ruta más corta entre cualquier par de ciudades usando el algoritmo de Dijkstra, que es muy eficiente. Además, se diseñó una ventana interactiva (una interfaz gráfica) donde el usuario puede escribir los datos, ver todas las rutas y calcular la mejor opción de manera visual y fácil. Esta versión es mucho más completa y práctica para usar en la vida real.
 
+## Integrantes
+
+Daniel Fernando Arias Rivero - 2240078
+
+Warly Andrés Peña Rangel - 2240057
+
+Diego Andrés Rojas Robles - 2241691
+
+Luis Alejandro Vargas Reyes - 2240081
+
