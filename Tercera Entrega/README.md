@@ -18,7 +18,7 @@ En esta etapa inicial, se utilizó una lista simple para guardar todas las rutas
 
 ### Segunda etapa - Árboles
 
-Luego se mejoró el sistema utilizando un árbol binario de búsqueda (BST). Este tipo de estructura permite organizar las rutas de manera automática: las rutas más cortas se colocan a la izquierda y las más largas a la derecha. Esto hace que sea mucho más rápido encontrar la ruta más cercana. También se puede ver la forma del árbol para entender cómo están distribuidas las rutas. Esta etapa permitió manejar más datos sin que el sistema se volviera lento, y mejoró bastante el rendimiento comparado con las listas.
+Luego se mejoró el sistema utilizando un árbol binario de búsqueda. Este tipo de estructura permite organizar las rutas de manera automática: las rutas más cortas se colocan a la izquierda y las más largas a la derecha. Esto hace que sea mucho más rápido encontrar la ruta más cercana. También se puede ver la forma del árbol para entender cómo están distribuidas las rutas. Esta etapa permitió manejar más datos sin que el sistema se volviera lento, y mejoró bastante el rendimiento comparado con las listas.
 
 ### Tercera etapa - Grafos
 
